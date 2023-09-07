@@ -9,3 +9,5 @@ chmod +x aq_project.sh
 ```
 /.aq_project.sh
 ```
+
+### You are good to go
